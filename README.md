@@ -1,10 +1,44 @@
-- 👋 Hi, I’m @netrox96SG
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<div align="center">
 
-<!---
-netrox96SG/netrox96SG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=515158&size=25&lines=WELCOME+TO+SOUMYA'S+PROFILE...)](https://git.io/typing-svg)
+
+
+<div align="center">
+  <a href="https://ibb.co/4wyvT9j"><img src="https://i.ibb.co/0Cg9MJN/20210923-185508.jpg""width="170" height="170"/>
+  <p align="center">
+<a href="#"><img title="Aju" src="https://img.shields.io/badge/-Aju-black?&style=for-the-badge"></a>
+</p>
+  </p>
+</div>
+<p align="center">
+ALL RIGHTS RESERVED BY SOUMYA 
+    <br>
+       | © |
+        Reserved |
+    <br> 
+</p>
+
+----
+
+  <p align="center">
+
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FF0000&size=30&center=true&vCenter=true&lines=FOLLOW+ME+ON+INSTA...)](https://git.io/typing-svg)
+</p>
+    
+<p align="center">
+
+<a href="https://instagram.com/Itz_soumya_s14=copy_link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
+  
+    
+    
+<hr></hr>  
+    
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/SP-XD" />
+
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="400"/>
+
+</div>
+
+    
